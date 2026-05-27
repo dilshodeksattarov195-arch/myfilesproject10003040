@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncelete",
+        "uuid": 23712000,
+        "checksum": "90r4q"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
